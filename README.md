@@ -33,7 +33,7 @@ Esse jogo foi desenvolvido durante a formação <strong>JavaScript para Front-en
 
 ## Acesso ao projeto
 
-Para ter acesso ao código fonte do projeto, acesse: https://anamolinari.github.io/jogo-numero-secreto/
+Para ter acesso ao código fonte do projeto, acesse: https://anamolinari.github.io/Jogo-Numero-Secreto/
 
 ## Deixe seu comentário
 
